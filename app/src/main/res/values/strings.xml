@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_profileactivity">Profileactivity</string>
+    <string name="title_activity_eshika">EshikaActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
 </resources>
